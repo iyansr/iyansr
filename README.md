@@ -24,14 +24,6 @@ Currently working as Frontend Engineer at [DOOgether](https://web.doogether.id)
 - React, Javascript, Typescript
 - Node JS with Express
 
-### 🔧 Software / Tools / Devices
-
-- OS: Windows, Mac OS
-- Code Editor : Visual Studio Code
-- Browser: Chrome, _a new_ Microsoft Edge
-- Devices: PC, Macbook Pro 2019
-- Github
-
 ### 🚀 Reach me at:
 
 - Web: [iyansr.id](https://iyansr.id)
@@ -40,7 +32,11 @@ Currently working as Frontend Engineer at [DOOgether](https://web.doogether.id)
 - Instagram: [@iyan_saputraaa](https://instagram.com/iyan_saputraaa)
 
 <div  align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=iyansr" />
+   <img src="https://github-readme-stats.vercel.app/api?username=iyansr&show_icons=true&theme=radical" />
+</div>
+
+<div  align="center">
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iyansr&show_icons=true&theme=radical" />
 </div>
 
 ---
