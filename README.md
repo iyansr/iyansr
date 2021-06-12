@@ -2,7 +2,7 @@
 
 ### 💼 Careers
 
-Currently working as Frontend Engineer at [DOOgether](https://web.doogether.id)
+Currently working as Frontend Engineer at [DOOgether](https://web.doogether.id) and looking for a new Opportunity as React and/or React Native Developer ( Fulltime Remote )
 
 ### 💻 Experiences
 
