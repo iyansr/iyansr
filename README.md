@@ -2,7 +2,7 @@
 
 ### 💼 Careers
 
-Currently working as Frontend Engineer at [DOOgether](https://web.doogether.id) and looking for a new Opportunity as React and/or React Native Developer ( Fulltime Remote )
+Currently working as Frontend Developer at [pintu.co.id](https://pintu.co.id/) and looking for Opportunity as React and/or React Native Developer ( Part Time Remote )
 
 ### 💻 Experiences
 
@@ -41,4 +41,4 @@ Currently working as Frontend Engineer at [DOOgether](https://web.doogether.id) 
 
 ---
 
-© 2020 — I Putu Saputrayana
+© 2021 — I Putu Saputrayana
