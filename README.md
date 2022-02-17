@@ -2,7 +2,7 @@
 
 ### 💼 Careers
 
-Currently working as Frontend Developer at [pintu.co.id](https://pintu.co.id/) and looking for Opportunity as React and/or React Native Developer ( Part Time Remote )
+Currently working as Frontend Developer at [pintu.co.id](https://pintu.co.id/) and help creating NFT marketplace called *Artpedia* 
 
 ### 💻 Experiences
 
