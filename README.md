@@ -1,25 +1,23 @@
 
-
-<div style="display:flex; align-items:center;">
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=iyansr&show_icons=true&theme=radical" />
-   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iyansr&show_icons=true&theme=radical" />
+<div  align="center">
+     <a href="https://app.daily.dev/iyansr"><img src="https://api.daily.dev/devcards/6d892bc13f8d4bf4ab81f534a563ca40.png?r=xe5" width="256" alt="I Putu Saputrayana's Dev Card"/></a>
 </div>
- 
-  <a href="https://app.daily.dev/iyansr"><img src="https://api.daily.dev/devcards/6d892bc13f8d4bf4ab81f534a563ca40.png?r=xe5" width="400" alt="I Putu Saputrayana's Dev Card"/></a>
 
+<br />
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=iyansr&show_icons=true&theme=radical" />
 </div>
-<br/>
-   <img src="https://komarev.com/ghpvc/?username=iyansr&color=blueviolet&style=flat-square" alt="Profile Views" />
-   <img alt="GitHub followers" src="https://img.shields.io/github/followers/iyansr?color=blueviolet&style=flat-square">
 
-   <br />
+<br />
+
+<div  align="center">
+  <img src="https://komarev.com/ghpvc/?username=iyansr&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/iyansr?color=blueviolet&style=flat-square">
+</div>
 
 ---
- 
 
-
-
+<br/>
 
 👋 Hi there... My full name is I Putu Saputrayana, so you can call me "Iyan". I'm Full Stack Developer who specialized in frontend side, but also have an ability to code in backend side using Node JS and Express. Very passionate about modern mobile and web technology.
 
