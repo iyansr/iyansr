@@ -1,7 +1,5 @@
 
-<div  align="center">
-     <a href="https://app.daily.dev/iyansr"><img src="https://api.daily.dev/devcards/6d892bc13f8d4bf4ab81f534a563ca40.png?r=xe5" width="256" alt="I Putu Saputrayana's Dev Card"/></a>
-</div>
+[![@iyansr's Holopin board](https://holopin.io/api/user/board?user=iyansr)](https://holopin.io/@iyansr)
 
 <br />
 <div align="center">
