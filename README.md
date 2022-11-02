@@ -21,7 +21,7 @@
 
 ### 💼 Careers
 
-Currently working as Frontend Developer at [pintu.co.id](https://pintu.co.id/) and help creating NFT marketplace called *Artpedia* 
+Currently working as Frontend Developer at [pintu.co.id](https://pintu.co.id/) and looking for freelance opportunity
 
 ### 💻 Experiences
 
