@@ -17,7 +17,7 @@
 
 <br/>
 
-👋 Hi there... My full name is I Putu Saputrayana, so you can call me "Iyan". I'm Full Stack Developer who specialized in frontend side, but also have an ability to code in backend side using Node JS and Express. Very passionate about modern mobile and web technology.
+👋 Hi there... My full name is I Putu Saputrayana, but you can call me "Iyan". I'm Full Stack Developer who specialized in frontend side, but also have an ability to code in backend side using Node JS and Express. Very passionate about modern mobile and web technology. Currently building sinimi.id, digital invitation website platform
 
 ### 💼 Careers
 
