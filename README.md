@@ -5,6 +5,9 @@
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=iyansr&show_icons=true&theme=radical" />
 </div>
+<div align="center">
+   <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=iyansr&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px" />
+</div>
 
 <br />
 
@@ -12,6 +15,8 @@
   <img src="https://komarev.com/ghpvc/?username=iyansr&color=blueviolet&style=flat-square" alt="Profile Views" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/iyansr?color=blueviolet&style=flat-square">
 </div>
+
+
 
 ---
 
