@@ -22,9 +22,6 @@
 
 <br/>
 
-👋 Hi there... My full name is I Putu Saputrayana, but you can call me "Iyan". I'm Full Stack Developer who specialized in frontend side, but also have an ability to code in backend side using Node JS and Express. Very passionate about modern mobile and web technology. Currently building sinimi.id, digital invitation website platform
-
-
 ### 💻 Experiences
 
 - Javascript, Typescript
@@ -32,13 +29,8 @@
 - Git, Github, Gitlab
 - CSS, SCSS
 - Vercel, Netlify
+- Web3, Solidity
 
-### 🎬 Activities
-
-- Work (of course, why not)
-- Learning and research weird technologies on the internet
-- Coding, Gaming, Streaming
-- Video Call (literally every night)
 
 ### 💻 Stacks
 
@@ -46,7 +38,7 @@
 - Next JS
 - Express JS
 - Nest JS
-- ethers.js
+- ethers.js, viem, wagmi
 
 ### 🚀 Reach me at:
 
@@ -57,4 +49,4 @@
 
 ---
 
-© 2021 — I Putu Saputrayana
+© 2024 — I Putu Saputrayana
