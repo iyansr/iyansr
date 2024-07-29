@@ -6,7 +6,7 @@
    <img src="https://github-readme-stats.vercel.app/api?username=iyansr&show_icons=true&theme=radical" />
 </div>
 <div align="center">
-   <img width="500px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=iyansr&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px" alt="Iyan CodersRank Stats">
+<figure><embed src="https://wakatime.com/share/@iyansr/3036acb2-62af-49fd-bc57-d4e263fc1203.svg"></embed></figure>
 </div>
 
 <br />
