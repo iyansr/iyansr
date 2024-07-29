@@ -6,7 +6,7 @@
    <img src="https://github-readme-stats.vercel.app/api?username=iyansr&show_icons=true&theme=radical" />
 </div>
 <div align="center">
-<figure><embed src="https://wakatime.com/share/@iyansr/3036acb2-62af-49fd-bc57-d4e263fc1203.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@iyansr/e33c697c-35f6-408d-88b4-d6c9c1239518.png" /></a>
 </div>
 
 <br />
