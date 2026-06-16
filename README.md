@@ -6,12 +6,9 @@
    <img src="https://github-readme-stats.vercel.app/api?username=iyansr&show_icons=true&theme=radical" />
 </div>
 
-<div align="center" style="max-width: 320px;">
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@iyansr/1b80b9df-7b44-4eac-bafd-3ea0b9a5af7b.png" /></a>
-</div>
-
-<div align="center" style="max-width: 320px;">
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@iyansr/e33c697c-35f6-408d-88b4-d6c9c1239518.png" /></a>
+<div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@iyansr/1b80b9df-7b44-4eac-bafd-3ea0b9a5af7b.png" style="max-width: 320px;" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@iyansr/e33c697c-35f6-408d-88b4-d6c9c1239518.png" style="max-width: 320px;" /></a>
 </div>
 
 <br />
