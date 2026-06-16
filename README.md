@@ -7,7 +7,7 @@
 </div>
 
 <div align="center" style="max-width: 320px;">
-<figure><embed src="https://wakatime.com/share/@iyansr/7b58d01d-66f4-4af6-b1bf-22fa3102c104.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@iyansr/1b80b9df-7b44-4eac-bafd-3ea0b9a5af7b.png" /></a>
 </div>
 
 <div align="center" style="max-width: 320px;">
