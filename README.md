@@ -5,6 +5,11 @@
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=iyansr&show_icons=true&theme=radical" />
 </div>
+
+<div align="center" style="max-width: 320px;">
+<figure><embed src="https://wakatime.com/share/@iyansr/7b58d01d-66f4-4af6-b1bf-22fa3102c104.svg"></embed></figure>
+</div>
+
 <div align="center" style="max-width: 320px;">
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@iyansr/e33c697c-35f6-408d-88b4-d6c9c1239518.png" /></a>
 </div>
