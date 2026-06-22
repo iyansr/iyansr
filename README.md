@@ -6,20 +6,12 @@
    <img src="https://github-readme-stats.vercel.app/api?username=iyansr&show_icons=true&theme=radical" />
 </div>
 
+<br />
 
-
-<table>
-  <tr>
-    <td >Categories</td>
-    <td>Languages</td>
-  </tr>
-  <tr>
-    <td><a href="https://wakatime.com"><img src="https://wakatime.com/share/@iyansr/46c3d7f8-b67e-4fe9-b54c-6ecde0be6f83.png" style="max-width: 320px;" /></a></td>
-    <td><a href="https://wakatime.com"><img src="https://wakatime.com/share/@iyansr/e33c697c-35f6-408d-88b4-d6c9c1239518.png" style="max-width: 320px;" /></a></td>
-  </tr>
-</table>
-
-
+<div  align="center">
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@iyansr/46c3d7f8-b67e-4fe9-b54c-6ecde0be6f83.png" style="max-width: 320px;" />
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@iyansr/e33c697c-35f6-408d-88b4-d6c9c1239518.png" style="max-width: 320px;" />
+</div>
 <br />
 
 <div  align="center">
